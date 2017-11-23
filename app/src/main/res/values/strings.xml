@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">mathijsparmentierpset4</string>
+    <string name="entry_hint">New To-Do Entry</string>
+    <string name="add_entry">Add</string>
 </resources>
